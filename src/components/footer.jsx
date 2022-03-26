@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <h4>Organika Store.</h4>
-      <h3>Developer: Raul Navarro & Sergio Inzunza</h3>
+      <h3>By: Raul Navarro & Sergio Inzunza</h3>
     </div>
   );
 };
