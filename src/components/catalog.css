@@ -1,0 +1,21 @@
+.catalog {
+  padding-top: 30px;
+  background-color: var(--background);
+  min-height: calc(100vh - 56px);
+}
+
+.catalog .filter-buttons {
+  margin-bottom: 20px;
+}
+
+.catalog .filter-buttons button {
+  margin-right: 8px;
+}
+
+.catalog h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: -15px;
+  font-size: 34px;
+  font-weight: lighter;
+  margin-bottom: 25px;
+}
