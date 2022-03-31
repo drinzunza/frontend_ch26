@@ -4,7 +4,7 @@ import store from "../context/storeContext";
 import ProductInCart from "./productInCart";
 
 const Cart = () => {
-  // get two or more elements from the store
+  // get two or more elements from the store test change
   let { cart, addProdToCart } = useContext(store);
 
   return (
